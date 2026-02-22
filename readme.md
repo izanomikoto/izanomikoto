@@ -143,8 +143,8 @@ const izanomikoto = {
 
 ##  Objetivos 2026
 
-- [ ] Expandir o Mundo RPG com conteúdo celestial (7 Céus de Shamayin)
-- [ ] Implementar sistema de Zanpakutō completo (Shikai/Bankai)
+- [ ] Expandir o Mundo RPG com conteúdo celestial
+- [ ] Implementar sistema de Espadas da alma completo
 - [ ] Criar dashboard web premium para o bot
 - [ ] Contribuir para projetos open source
 - [ ] Aprender mais sobre game design e balanceamento
@@ -160,17 +160,12 @@ const izanomikoto = {
 
 ---
 
-###  Visitantes do Perfil
-
-![Visitor Count](https://profile-counter.glitch.me/izanomikoto/count.svg)
-
----
-
 ** De [izanomikoto](https://github.com/izanomikoto)**
 
 *"Transformando ideias em código"* 
 
 </div>
+
 
 
 
