@@ -168,8 +168,9 @@ const izanomikoto = {
 
 ** De [izanomikoto](https://github.com/izanomikoto)**
 
-*"Transformando ideias em código, um commit por vez"* 
+*"Transformando ideias em código"* 
 
 </div>
+
 
 
