@@ -66,20 +66,6 @@ Desenvolvedor apaixonado por criar experiências interativas e sistemas complexo
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izanomikoto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izanomikoto&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=izanomikoto&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ##  Especialidades
 
 `typescript
@@ -165,6 +151,7 @@ const izanomikoto = {
 *"Transformando ideias em código"* 
 
 </div>
+
 
 
 
